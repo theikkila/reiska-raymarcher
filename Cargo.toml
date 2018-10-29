@@ -1,0 +1,9 @@
+[package]
+name = "reiska"
+version = "0.1.0"
+authors = ["Teemu Heikkilä <teemu@emblica.fi>"]
+
+[dependencies]
+image = "*"
+rayon = "1.0"
+cgmath = "0.16.1"
